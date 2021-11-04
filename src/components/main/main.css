@@ -1,0 +1,9 @@
+.main {
+    width: 100%;
+    height: auto;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-evenly;
+    /* padding: 20px 0; */
+    flex-wrap: wrap;
+}

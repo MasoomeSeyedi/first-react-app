@@ -1,0 +1,15 @@
+.div-img {
+    width: 100%;
+    height: auto;
+    /* background-color: red; */
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+    align-items: flex-start;
+}
+
+@media screen and (max-width: 900px) {
+    .div-img {
+        display: none;
+    }
+}
